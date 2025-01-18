@@ -1,0 +1,8 @@
+Json Placeholder api = https://jsonplaceholder.typicode.com
+    User table: https://jsonplaceholder.typicode.com/users
+
+Tutorial Loosely followed:
+https://rapidapi.com/blog/how-to-use-an-api-with-java/
+
+Unirest Documentation
+https://kong.github.io/unirest-java/requests/
